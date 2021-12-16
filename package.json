@@ -1,13 +1,19 @@
 {
     "name": "github-action",
     "version": "1.0.0",
-    "description": "",
+    "description": "用于测试github-action持续集成功能的仓库",
     "scripts": {
         "build": "webpack"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": [
+        "github-action",
+        "github",
+        "fontend",
+        "yaml"
+    ],
+    "author": "hec9527",
+    "license": "MIT",
+    "homepage": "https://github.com/hec9527/github-action",
     "dependencies": {
         "html-webpack-plugin": "^5.5.0",
         "webpack": "^5.65.0",

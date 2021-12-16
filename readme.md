@@ -5,4 +5,4 @@
 ## 如何使用
 
 1. fork 该项目
-2. 参照文档测试在线构建发布
+2. [参照文档](https://blog.hec9527.top/blog/2021/12/16/github-action)测试在线构建发布
